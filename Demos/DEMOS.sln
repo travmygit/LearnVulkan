@@ -10,6 +10,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vulkaninfo", "vulkaninfo.vc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vkapp", "vkapp\vkapp.vcxproj", "{5A4234BA-9B20-4CD4-B9F0-D7BC800EDB93}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vktutorial", "vktutorial\vktutorial.vcxproj", "{45A7F934-B26F-486E-9CE9-67E9183B8712}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -50,6 +52,14 @@ Global
 		{5A4234BA-9B20-4CD4-B9F0-D7BC800EDB93}.Release|Win32.Build.0 = Release|Win32
 		{5A4234BA-9B20-4CD4-B9F0-D7BC800EDB93}.Release|x64.ActiveCfg = Release|x64
 		{5A4234BA-9B20-4CD4-B9F0-D7BC800EDB93}.Release|x64.Build.0 = Release|x64
+		{45A7F934-B26F-486E-9CE9-67E9183B8712}.Debug|Win32.ActiveCfg = Debug|Win32
+		{45A7F934-B26F-486E-9CE9-67E9183B8712}.Debug|Win32.Build.0 = Debug|Win32
+		{45A7F934-B26F-486E-9CE9-67E9183B8712}.Debug|x64.ActiveCfg = Debug|x64
+		{45A7F934-B26F-486E-9CE9-67E9183B8712}.Debug|x64.Build.0 = Debug|x64
+		{45A7F934-B26F-486E-9CE9-67E9183B8712}.Release|Win32.ActiveCfg = Release|Win32
+		{45A7F934-B26F-486E-9CE9-67E9183B8712}.Release|Win32.Build.0 = Release|Win32
+		{45A7F934-B26F-486E-9CE9-67E9183B8712}.Release|x64.ActiveCfg = Release|x64
+		{45A7F934-B26F-486E-9CE9-67E9183B8712}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
